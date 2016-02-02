@@ -1,3 +1,4 @@
 # hello-world
 first repository on github
-this is my first commit 
+ This is my first commit.
+ This is my second go round to make sure i got it.
